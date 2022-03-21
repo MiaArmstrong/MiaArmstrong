@@ -1,5 +1,5 @@
 <p align="center">
-![Alt Text](giphy.gif)
+  <img src="giphy.gif" alt="QA" />
 </p>
 </br>
 <p align="center">
