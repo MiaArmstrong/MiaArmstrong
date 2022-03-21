@@ -13,6 +13,6 @@
   </a>
 </p>
 </br>
-<p align="center" height="48" width="48">
+<p align="center" height="16" width="16">
   <img src="images/invader.gif" alt="Good-Bye" />
 </p>
