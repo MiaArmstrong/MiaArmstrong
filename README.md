@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/dylanelznic/dylanelznic/master/images/banner.svg" />
 
-<!--
-**MiaArmstrong/MiaArmstrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mia-a-57172242/">
+    <img src="https://img.shields.io/badge/-@Mia-Armstrong-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white"
+      alt="LinkedIn badge" />
+  </a>
+  <a href="mailto:miasdroid@gmail.com">
+    <img src="https://img.shields.io/badge/-miasdroid@gmail.com-313131?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miasdroid@gmail.com"
+      alt="Email badge" />
+  </a>
+</p>
