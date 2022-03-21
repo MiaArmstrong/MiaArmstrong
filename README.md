@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/miaarmstrong/miaarmstrong/master/images/banner.svg" />
+<iframe src="https://giphy.com/embed/uKadIjaivWCqY" width="480" height="404" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 </br>
 <p align="center">
