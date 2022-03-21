@@ -1,4 +1,6 @@
+<p align="center">
 ![Alt Text](giphy.gif)
+</p>
 </br>
 <p align="center">
   <a href="https://www.linkedin.com/in/mia-a-57172242/">
