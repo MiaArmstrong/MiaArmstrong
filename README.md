@@ -14,5 +14,5 @@
 </p>
 </br>
 <p align="center">
-  <img src="images/invader.gif" alt="Good-Bye" height="16" width="16"/>
+  <img src="images/invader.gif" alt="Good-Bye" height="48" width="48"/>
 </p>
