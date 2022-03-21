@@ -1,5 +1,4 @@
-<iframe src="https://giphy.com/embed/uKadIjaivWCqY" width="480" height="404" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/g1ft3d-art-video-games-fail-uKadIjaivWCqY">via GIPHY</a></p>
-
+<div style="width:100%;height:0;padding-bottom:84%;position:relative;"><iframe src="https://giphy.com/embed/uKadIjaivWCqY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 </br>
 <p align="center">
   <a href="https://www.linkedin.com/in/mia-a-57172242/">
