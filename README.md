@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="giphy.gif" alt="QA" />
+  <img src="images/giphy.gif" alt="QA" />
 </p>
 </br>
 <p align="center">
@@ -11,4 +11,8 @@
     <img src="https://img.shields.io/badge/-miasdroid@gmail.com-313131?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miasdroid@gmail.com"
       alt="Email badge" />
   </a>
+</p>
+</br>
+<p align="center">
+  <img src="images/invader.gif" alt="Good-Bye" />
 </p>
