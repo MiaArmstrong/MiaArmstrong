@@ -1,4 +1,4 @@
- ![ Alt text](giffy.gif) / ! [](giffy.gif)
+![Alt Text](giphy.gif)
 </br>
 <p align="center">
   <a href="https://www.linkedin.com/in/mia-a-57172242/">
