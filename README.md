@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:84%;position:relative;"><iframe src="https://giphy.com/embed/uKadIjaivWCqY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+ ![ Alt text](giffy.gif) / ! [](giffy.gif)
 </br>
 <p align="center">
   <a href="https://www.linkedin.com/in/mia-a-57172242/">
