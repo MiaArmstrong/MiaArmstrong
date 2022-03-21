@@ -3,7 +3,7 @@
 </br>
 <p align="center">
   <a href="https://www.linkedin.com/in/mia-a-57172242/">
-    <img src="https://img.shields.io/badge/-@Mia-Armstrong-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white"
+    <img src="https://img.shields.io/badge/-@MiaArmstrong?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white"
       alt="LinkedIn badge" />
   </a>
   <a href="mailto:miasdroid@gmail.com">
