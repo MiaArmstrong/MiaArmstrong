@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dylanelznic/dylanelznic/master/images/banner.svg" />
+<img src="https://raw.githubusercontent.com/miaarmstrong/miaarmstrong/master/images/banner.svg" />
 
 </br>
 <p align="center">
