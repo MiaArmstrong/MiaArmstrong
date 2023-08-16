@@ -8,7 +8,7 @@
       alt="LinkedIn badge" />
   </a>
   <a href="mailto:miasdroid@gmail.com">
-    <img src="https://img.shields.io/badge/-miasdroid@gmail.com-313131?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miasdroid@gmail.com"
+    <img src="https://img.shields.io/badge/-mia.armstrong.qa@gmail.com-313131?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mia.armstrong.qa@gmail.com"
       alt="Email badge" />
   </a>
 </p>
